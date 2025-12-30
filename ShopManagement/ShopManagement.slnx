@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ShopManagement.API/ShopManagement.API.csproj" />
+  <Project Path="ShopManagement.Database/ShopManagement.Database.csproj" />
+  <Project Path="ShopManagement.Services/ShopManagement.Services.csproj" />
+</Solution>
