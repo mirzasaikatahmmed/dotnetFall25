@@ -19,6 +19,8 @@ namespace StudentManagement.DAL
             {
                 entity.ToTable("Students");
                 entity.HasKey(e => e.StudentId);
+                entity.Property(e => e.StudentId)
+                    .ValueGeneratedOnAdd();
                 entity.Property(e => e.StudentName).IsRequired().HasMaxLength(100);
                 entity.Property(e => e.StudentEmail).IsRequired().HasMaxLength(100);
             });
