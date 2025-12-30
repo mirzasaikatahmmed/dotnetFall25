@@ -1,0 +1,13 @@
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/bin/Debug/net10.0/StudentManagement.DAL.deps.json
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/bin/Debug/net10.0/StudentManagement.DAL.dll
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/bin/Debug/net10.0/StudentManagement.DAL.pdb
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/StudentManagement.DAL.csproj.AssemblyReference.cache
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/StudentManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/StudentManagement.DAL.AssemblyInfoInputs.cache
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/StudentManagement.DAL.AssemblyInfo.cs
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/StudentManagement.DAL.csproj.CoreCompileInputs.cache
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/StudentManagement.DAL.sourcelink.json
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/StudentManagement.DAL.dll
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/refint/StudentManagement.DAL.dll
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/StudentManagement.DAL.pdb
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.DAL/obj/Debug/net10.0/ref/StudentManagement.DAL.dll

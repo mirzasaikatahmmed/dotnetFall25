@@ -1,0 +1,16 @@
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/bin/Debug/net10.0/StudentManagement.BLL.deps.json
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/bin/Debug/net10.0/StudentManagement.BLL.dll
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/bin/Debug/net10.0/StudentManagement.BLL.pdb
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/bin/Debug/net10.0/StudentManagement.DAL.dll
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/bin/Debug/net10.0/StudentManagement.DAL.pdb
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/StudentManagement.BLL.csproj.AssemblyReference.cache
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/StudentManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/StudentManagement.BLL.AssemblyInfoInputs.cache
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/StudentManagement.BLL.AssemblyInfo.cs
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/StudentManagement.BLL.csproj.CoreCompileInputs.cache
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/StudentManagement.BLL.sourcelink.json
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/StudentM.6D2CE085.Up2Date
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/StudentManagement.BLL.dll
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/refint/StudentManagement.BLL.dll
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/StudentManagement.BLL.pdb
+/home/saikat/Academic/dotnetFall25/StudentManagement/StudentManagement.BLL/obj/Debug/net10.0/ref/StudentManagement.BLL.dll
